@@ -45,9 +45,16 @@ Bridge rectifier with filter:
 <img width="1476" height="822" alt="image" src="https://github.com/user-attachments/assets/033b42ef-af44-4a92-8a77-c40497ba92db" />
 
 TABULAR COLUMN
-Rectifier without filter
+
+Half wave rectifier with and without filter
+
+<img width="1280" height="373" alt="image" src="https://github.com/user-attachments/assets/953d3d14-152f-4906-b443-04bca9642efc" />
+
 TABULAR COLUMN
-Rectifier with filter
+
+Full wave rectifier with filter and without filter
+
+<img width="1280" height="376" alt="image" src="https://github.com/user-attachments/assets/2627ec7a-d585-4120-8dcb-f2e91f95a0cd" />
 
 WAVEFORM:
 Half wave rectifier waveform
