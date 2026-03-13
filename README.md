@@ -39,10 +39,10 @@ CIRCUIT DIAGRAMS
 Half wave rectifier with filter:
 <img width="947" height="718" alt="half wave rectifier circuit" src="https://github.com/user-attachments/assets/76b0ef27-4d82-455f-934b-7b4a0df14b70" />
 
-<img width="1476" height="822" alt="image" src="https://github.com/user-attachments/assets/033b42ef-af44-4a92-8a77-c40497ba92db" />
 
 
 Bridge rectifier with filter:
+<img width="1476" height="822" alt="image" src="https://github.com/user-attachments/assets/033b42ef-af44-4a92-8a77-c40497ba92db" />
 
 TABULAR COLUMN
 Rectifier without filter
