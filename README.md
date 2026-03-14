@@ -48,13 +48,13 @@ TABULAR COLUMN
 
 Half wave rectifier with and without filter
 
-<img width="1280" height="373" alt="image" src="https://github.com/user-attachments/assets/953d3d14-152f-4906-b443-04bca9642efc" />
+![alt text](<Tabulation - 1.jpeg>)
 
 TABULAR COLUMN
 
 Full wave rectifier with filter and without filter
 
-<img width="1280" height="376" alt="image" src="https://github.com/user-attachments/assets/2627ec7a-d585-4120-8dcb-f2e91f95a0cd" />
+![alt text](<Tabulation - 2.jpeg>)
 
 WAVEFORM:
 Half wave rectifier waveform
